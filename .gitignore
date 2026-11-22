@@ -1,0 +1,8 @@
+# Build / runtime artefacts — never commit these.
+payload.so
+*.so
+rce.db
+r.db
+rce-conf.txt
+*.b64
+*.log
