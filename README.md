@@ -144,3 +144,7 @@ All generated artefacts are ignored by `.gitignore`; none are committed.
    where possible, egress policy.
 
 See the post for the full argument and the verbatim maintainer response.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
